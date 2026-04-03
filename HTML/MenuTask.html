@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pizza Mania</title>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+}
+
+.top-bar {
+    background: yellow;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+
+h2 {
+    margin-bottom: 20px;
+}
+
+
+.form-group {
+    margin: 10px 0;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.menu-item img {
+    width: 80px;
+    margin-right: 20px;
+}
+
+.extra {
+    margin-top: 30px;
+}
+
+textarea {
+    width: 300px;
+    height: 80px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 8px 15px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="top-bar"> Pizza mania </div>
+
+<div class="container">
+
+<h2>Pizza Order Here </h2>
+
+<form>
+
+<div class="form-group">
+<label>First Name:</label>
+<input type="text" placeholder="First Name" required>
+</div>
+
+<div class="form-group">
+<label>Last Name:</label>
+<input type="text" placeholder="Last Name">
+</div>
+
+<div class="form-group">
+<label>Email:</label>
+<input type="email" placeholder="abc@example.com" required>
+</div>
+
+<div class="form-group">
+<label>Contact:</label>
+<input type="text" placeholder="Ex-9898989898" maxlength="10" required>
+</div>
+
+<div class="form-group">
+<label>Preferred Delivery Date:</label>
+<input type="date" required>
+</div>
+
+<div class="form-group">
+<label>Size:</label>
+<input type="radio" name="size"> Small
+<input type="radio" name="size"> Medium
+<input type="radio" name="size"> Large
+</div>
+
+<div class="form-group">
+<label><mark>Outlet:</mark></label>
+<select required>
+<option>Select Outlet</option>
+<option>Hyderabad</option>
+<option>Andhra Pradesh</option>
+<option>Karnataka</option>
+</select>
+</div>
+
+<h3>Menu ↓</h3>
+
+<div class="menu-item">
+<img src="https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_640.jpg">
+<input type="checkbox"> Hawaiian (150₹ <del>170₹</del>)
+<select><option>1</option><option>2</option></select>
+</div>
+
+<div class="menu-item">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdAjwCmlXWyM_M1dcDJNjijn8RdTSZZ41Qsw&s">
+<input type="checkbox"> Pepperoni (140₹ <del>160₹</del>)
+<select><option>1</option><option>2</option></select>
+</div>
+
+<div class="menu-item">
+<img src="https://cdn.pixabay.com/photo/2017/01/22/19/20/pizza-2000615_640.jpg">
+<input type="checkbox"> Vegetable (130₹ <del>150₹</del>)
+<select><option>1</option><option>2</option></select>
+</div>
+
+<div class="extra">
+
+<h3>Extra Details ↓</h3>
+
+<div class="form-group">
+<label> Credit Card:</label>
+<input type="text" placeholder="1234-5678-9123-1111">
+<button type="button">Verify Card</button>
+</div>
+
+<div class="form-group">
+<label> Pin:</label>
+<input type="password" placeholder="421604">
+</div>
+
+<div class="form-group">
+<label><mark>Upload photo for discount:</mark></label>
+<input type="file">
+</div>
+
+<div class="form-group">
+<label><mark>Additional Note:</mark></label>
+<textarea placeholder="Enter details here..."></textarea>
+</div>
+
+<div class="form-group">
+<label><mark>Rating:</mark></label>
+<input type="range">
+</div>
+
+</div>
+
+<button type="submit">Submit Order</button>
+
+</form>
+
+</div>
+
+</body>
+</html>
