@@ -1,0 +1,502 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "LuOxly6EK7gFJIKqA4czl",
+      "type": "text",
+      "x": 246.90931701660156,
+      "y": 156.72727966308594,
+      "width": 1029.0396728515625,
+      "height": 1200,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 295462540,
+      "version": 1113,
+      "versionNonce": 1834684815,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061150176,
+      "link": null,
+      "locked": false,
+      "text": "JS\n\nBranden Eich - 1995\n\nMocha - Live Script - JavaScrpit\n\nECMA - European Computer Manifacturing Association\n\n1997 - ECMA Scrpit(ES1 v)\n\nMost popular version Es6\n\nFeatures - 1. Js is dynamically type in nature\n              2. Add Functionality\n              3. scripting lanaguage \n              4. loosely \n\nJS is an syncronise by deafult\n\nprimitive            non-primitive\n\nnumber               array\nstring                object\nboolean              function\nnull\nundefined\nbigInt\nsymbol  \n\n\nFunctions:- \n\n                    \n                    DOM Tree                                                Document node(root node)\n                                                                element node,attribute node,text node,comment node\n              \n                    Document\n           \n                      <html>\n\n        <head>                       <body>\n\n<meta>  <meta>  <meta>        <h1>     <div>\n\n\n \n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "JS\n\nBranden Eich - 1995\n\nMocha - Live Script - JavaScrpit\n\nECMA - European Computer Manifacturing Association\n\n1997 - ECMA Scrpit(ES1 v)\n\nMost popular version Es6\n\nFeatures - 1. Js is dynamically type in nature\n              2. Add Functionality\n              3. scripting lanaguage \n              4. loosely \n\nJS is an syncronise by deafult\n\nprimitive            non-primitive\n\nnumber               array\nstring                object\nboolean              function\nnull\nundefined\nbigInt\nsymbol  \n\n\nFunctions:- \n\n                    \n                    DOM Tree                                                Document node(root node)\n                                                                element node,attribute node,text node,comment node\n              \n                    Document\n           \n                      <html>\n\n        <head>                       <body>\n\n<meta>  <meta>  <meta>        <h1>     <div>\n\n\n \n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "7YltEJE6oTUYa9Tg5re3d",
+      "type": "arrow",
+      "x": 442.57887268066406,
+      "y": 1002.8181762695312,
+      "width": 0.3636474609375,
+      "height": 38.90910339355469,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 178404641,
+      "version": 19,
+      "versionNonce": 1204067471,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776060977342,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.3636474609375,
+          38.90910339355469
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "FQaNqUeuAbUD1i0XymgeQ",
+      "type": "arrow",
+      "x": 449.8516387939453,
+      "y": 1058.8181915283203,
+      "width": 4.72723388671875,
+      "height": 30.90911865234375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 672453569,
+      "version": 13,
+      "versionNonce": 973331855,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776060982924,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.72723388671875,
+          30.90911865234375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "Tvzz1CqAPDrAQOyCtnt6Y",
+      "type": "arrow",
+      "x": 455.66981506347656,
+      "y": 1104.6363983154297,
+      "width": 118.9090576171875,
+      "height": 29.454498291015625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1628943329,
+      "version": 61,
+      "versionNonce": 256363119,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776060996722,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          118.9090576171875,
+          29.454498291015625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "6ldQ4ZK2UyuCmpHM1uSmY",
+      "type": "arrow",
+      "x": 350.94252014160156,
+      "y": 1160.6363677978516,
+      "width": 3.272735595703125,
+      "height": 24.363677978515625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1608688783,
+      "version": 14,
+      "versionNonce": 1796418415,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061001754,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3.272735595703125,
+          24.363677978515625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "NQ5wnlotvFfZCNNdS97tU",
+      "type": "arrow",
+      "x": 337.1243438720703,
+      "y": 1156.272720336914,
+      "width": 42.54547119140625,
+      "height": 17.8182373046875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2008461377,
+      "version": 34,
+      "versionNonce": 457448993,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061017668,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -42.54547119140625,
+          17.8182373046875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "KqtdOZQ-vzvxh2p_vqh9-",
+      "type": "arrow",
+      "x": 371.30616760253906,
+      "y": 1154.8181915283203,
+      "width": 52.72735595703125,
+      "height": 20.727264404296875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 4043265,
+      "version": 37,
+      "versionNonce": 928781519,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061022650,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          52.72735595703125,
+          20.727264404296875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "_rwLuBvnfVVDoCHy49lNH",
+      "type": "arrow",
+      "x": 598.2152862548828,
+      "y": 1162.8181915283203,
+      "width": 28.72723388671875,
+      "height": 21.45458984375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1931773825,
+      "version": 17,
+      "versionNonce": 804335119,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061027633,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -28.72723388671875,
+          21.45458984375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "SoP5yYZnJ6mbHJ-pPTR8l",
+      "type": "arrow",
+      "x": 612.7606964111328,
+      "y": 1159.1818084716797,
+      "width": 42.54547119140625,
+      "height": 22.18182373046875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1490981935,
+      "version": 26,
+      "versionNonce": 740431823,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061032099,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          42.54547119140625,
+          22.18182373046875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "hb4wpZ-FnvpnfFq3lPHLZ",
+      "type": "arrow",
+      "x": 431.66981506347656,
+      "y": 1104.6363983154297,
+      "width": 57.818115234375,
+      "height": 28,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 289699087,
+      "version": 60,
+      "versionNonce": 878584015,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776061054495,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -57.818115234375,
+          28
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "zSreG5UG-ioILwfHU5EOW",
+      "type": "text",
+      "x": 208.37391800967487,
+      "y": 1376.3992368246018,
+      "width": 429,
+      "height": 975,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 127611345,
+      "version": 638,
+      "versionNonce": 880704433,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1776227015559,
+      "link": null,
+      "locked": false,
+      "text": "TypeScript:\n\nIt is programming language \nIt is a superset of js\nIt is optionally statically typed\n\nFeatures of TS:\n\n1.Supports static typing\n2.type inference\n3.Supports ES6 & new features\n4.Cross browser compatitbility\n5.Detects errors at compile time\n\n\n\n\nWhy TypeScrpit over Js?\n\n1.We will get errors at compile\n2.Ts provides Type Safety\n\n\n\nHistory of TypeScript\n\nMicrosoft introduced in 2012\n\n2014 -> typeScript 1.0\n2016 -> angular used ts\n\n2026 -> TypeScript 6.02(Latest Version)\n\n\n\n\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "TypeScript:\n\nIt is programming language \nIt is a superset of js\nIt is optionally statically typed\n\nFeatures of TS:\n\n1.Supports static typing\n2.type inference\n3.Supports ES6 & new features\n4.Cross browser compatitbility\n5.Detects errors at compile time\n\n\n\n\nWhy TypeScrpit over Js?\n\n1.We will get errors at compile\n2.Ts provides Type Safety\n\n\n\nHistory of TypeScript\n\nMicrosoft introduced in 2012\n\n2014 -> typeScript 1.0\n2016 -> angular used ts\n\n2026 -> TypeScript 6.02(Latest Version)\n\n\n\n\n\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

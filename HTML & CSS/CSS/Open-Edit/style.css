@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-style: italic;
+    font-variation-settings: "wdth" 100;
+}
+
+h1{
+    background-color: blueviolet;
+    color: aquamarine;
+    text-align: center;
+    text-shadow: 5px 1px 1px black ;
+}
+
+p{
+    line-height : 40px;
+    word-spacing: 10px;
+    text-indent: 150px;
+    font-family: monospace;
+    font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+}
+
+

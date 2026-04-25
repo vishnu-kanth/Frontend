@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: greenyellow;
+    height: 90px;
+    width: 100%;
+}
+
+.menu{
+    display: flex;
+    gap: 15px;
+}
+
+.menu a{
+    text-decoration:none ;
+    color: black;
+}
+
+.humburger{
+    display: none;
+    font-size: large;
+    cursor: pointer;
+}
+
+#toggle{
+    display: none;
+}
+
+@media (max-width:767px) {
+
+    .menu{
+        display: none;
+        flex-direction: column;
+        background-color: black;
+        position: absolute;
+        top:60px;
+        right: 0;
+        width: 100%;
+    } 
+
+    #toogle:checked + .humburger + .menu{
+        display: flex;
+    }
+    .humburger{
+        display: block;
+    }
+}
